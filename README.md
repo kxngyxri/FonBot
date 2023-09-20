@@ -16,3 +16,10 @@ SOURCE_PARAM = "GET IT FROM MERCHANT API ON FONBNK" //NOT NEEDED FOR BOT TO WORK
 
 Use api.payment in order to use the API 
 To use the link itself use merchant payment link 
+
+
+
+
+
+Use /start to start the Telegram Bot 
+Use Yes or No for responses 
