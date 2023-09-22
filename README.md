@@ -1,25 +1,16 @@
 # FonBot
 Telegram Bot Found Here: https://t.me/FonbnkInvoiceGenBot
+Google Slides Pitch: https://docs.google.com/presentation/d/1WTQJwxhHVyJIZQ-N5INdTcPqCtllzKdAUewt1bqKtAE/edit?usp=sharing
 
 Revolutionize your invoicing with our Telegram bot! 🚀 Generate crypto payment links effortlessly using FonBnk API and Widgets. Get paid in a snap! 💰 #CryptoInvoicing"
 
-
-
-
-
-WANT TO REPLICATE AND MAKE YOUR OWN BOT USING FONBNK API  
-TOKEN = "USE YOUR OWN TOKEN FROM YOUR TELEGRAM BOT "
-MERCHANT_ID = "GET IT FROM MERCHANT API ON FONBNK" 
-API_KEY = "GET IT FROM MERCHANT API ON FONBNK"
-SOURCE_PARAM = "GET IT FROM MERCHANT API ON FONBNK" //NOT NEEDED FOR BOT TO WORK 
-
-
-Use api.payment in order to use the API 
-To use the link itself use merchant payment link 
-
-
+This particular example shows how one can generate a payment link using the bot.
+All you need is your USDC address.
+One can add their merchant account and be able to view on the FonBnk Dashboard.
 
 
 
 Use /start to start the Telegram Bot 
 Use Yes or No for responses 
+
+More Features Loading ... 
