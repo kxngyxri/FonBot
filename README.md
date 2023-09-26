@@ -17,3 +17,6 @@ Use /start to start the Telegram Bot
 Use Yes or No for responses 
 
 More Features Loading ... 
+
+
+NB: Of Course Don't Display your Keys, This is for presentation purposes ONLY.
