@@ -20,3 +20,4 @@ More Features Loading ...
 
 
 NB: Of Course Don't Display your Keys, This is for presentation purposes ONLY.
+Bot is currently offline
